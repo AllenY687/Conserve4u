@@ -20,3 +20,25 @@ A smart energy management and optimization app that helps users track and optimi
 - Connect with other energy-conscious users
 - Learn from community tips and best practices
 - Compare energy usage with similar households
+
+## Technology Stack
+
+### Frontend
+- Flutter - Cross-platform UI framework
+- Dart - Programming language
+- Material Design - UI components and styling
+
+### Backend & Data
+- Firebase - Backend services and database
+- Cloud Functions - Serverless computing
+- Firestore - NoSQL database
+
+### APIs & Services
+- Weather API - For weather-based recommendations
+- Energy Usage APIs - For consumption tracking
+- Analytics - Usage patterns and insights
+
+### Development Tools
+- Android Studio / VS Code - IDE
+- Git - Version control
+- Flutter DevTools - Debugging and profiling
